@@ -43,7 +43,7 @@
 <br>
 
 ## 🛠️ Tools
-![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual-%23026AA7.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23EF4223.svg?style=for-the-badge&logo=postman&logoColor=white)
