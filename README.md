@@ -42,6 +42,7 @@
 
 ## 🛠️ Tools
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23EF4223.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 # 💻 Interest:
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)            
