@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🔭 Actualmente estoy trabajando en Medicina Integral IPS en uno de los proyectos con JavaScript, JQuery, Socket.io para el FrontEnd y BackEnd PHP con CODEIGNITER, SQL Server<br>🌱 Actualmente estoy aprendiendo TypeScrpt, React JS, Mongo DB, TDD, Flutter, y  Rust.<br>💬 Pregúntame sobre Java.<br>⚡ Dato curioso: estudié en la Universidad Simón Bolívar <br><br> 
+🔭 Actualmente estoy trabajando en Tiendas Isimo en uno de los proyectos con Angular,  algunos prouectos con HTML puro y Javascript con JQuery, Socket.io para el FrontEnd y BackEnd con PHP con Laravel, NestJs, Node, Bases de datos como lo es SQL Server, Postgres y Mysql <br>🌱 Actualmente estoy aprendiendo Go para microservicios, Rust para proyectos personasles y bases de datos no relacionales como los es MongoDB, Arquitectura Hexagonal.  <br>💬 Pregúntame sobre Java.<br>⚡ Dato curioso: estudié en la Universidad Simón Bolívar <br><br> 
 # 💫 About Me:
 🔭 I am currently working in Integral Medicine IPS in one of the projects with JavaScript, JQuery, Socket.io for the FrontEnd and BackEnd PHP with CODEIGNITER, SQL Server<br>🌱 I’m currently learning TypeScrpt, React JS, Mongo DB, TDD, Flutter and Rust. <br>💬 Ask me about Java and Laravel.<br>⚡ Fun fact: I studied at Simón Bolívar University
 <br>
